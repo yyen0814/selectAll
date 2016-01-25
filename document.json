@@ -1,0 +1,1128 @@
+{
+    "MobileCountryItems": [
+        {
+            "CountryID": "AF",
+            "CountryName": "Afghanistan",
+            "MobileCountryCode": "+63",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "AL",
+            "CountryName": "Albania",
+            "MobileCountryCode": "+355",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "DZ",
+            "CountryName": "Algeria",
+            "MobileCountryCode": "+213",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Andorra",
+            "MobileCountryCode": "+376",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "AO",
+            "CountryName": "Angola",
+            "MobileCountryCode": "+244",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "AI",
+            "CountryName": "Anguilla",
+            "MobileCountryCode": "+1-264",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "AR",
+            "CountryName": "Argentina",
+            "MobileCountryCode": "+54",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "AM",
+            "CountryName": "Armenia",
+            "MobileCountryCode": "+374",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "AW",
+            "CountryName": "Aruba",
+            "MobileCountryCode": "+297",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "AU",
+            "CountryName": "Australia",
+            "MobileCountryCode": "+61",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "AT",
+            "CountryName": "Austria",
+            "MobileCountryCode": "+43",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "AZ",
+            "CountryName": "Azerbaijan",
+            "MobileCountryCode": "+994",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BS",
+            "CountryName": "Bahamas",
+            "MobileCountryCode": "+1-242",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BH",
+            "CountryName": "Bahrain",
+            "MobileCountryCode": "+973",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BD",
+            "CountryName": "Bangladesh",
+            "MobileCountryCode": "+880",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BB",
+            "CountryName": "Barbados",
+            "MobileCountryCode": "+1-246",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BY",
+            "CountryName": "Belarus",
+            "MobileCountryCode": "+375",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BE",
+            "CountryName": "Belgium",
+            "MobileCountryCode": "+32",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BJ",
+            "CountryName": "Benin",
+            "MobileCountryCode": "+229",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BM",
+            "CountryName": "Bermuda",
+            "MobileCountryCode": "+1-441",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BT",
+            "CountryName": "Bhutan",
+            "MobileCountryCode": "+975",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BZ",
+            "CountryName": "Belize",
+            "MobileCountryCode": "+501",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BO",
+            "CountryName": "Bolivia",
+            "MobileCountryCode": "+591",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Bosnia",
+            "MobileCountryCode": "+387",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BW",
+            "CountryName": "Botswana",
+            "MobileCountryCode": "+267",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BR",
+            "CountryName": "Brazil",
+            "MobileCountryCode": "+55",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BN",
+            "CountryName": "Brunei",
+            "MobileCountryCode": "+673",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BG",
+            "CountryName": "Bulgaria",
+            "MobileCountryCode": "+359",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BF",
+            "CountryName": "Burkina Faso",
+            "MobileCountryCode": "+226",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "BI",
+            "CountryName": "Burubdi",
+            "MobileCountryCode": "+257",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "KH",
+            "CountryName": "Cambodia",
+            "MobileCountryCode": "+855",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CM",
+            "CountryName": "Cameroon",
+            "MobileCountryCode": "+237",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CA",
+            "CountryName": "Canada",
+            "MobileCountryCode": "+1",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CV",
+            "CountryName": "Cape Verde",
+            "MobileCountryCode": "+238",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "KY",
+            "CountryName": "Cayman Islands",
+            "MobileCountryCode": "+238",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CF",
+            "CountryName": "Central African Republic",
+            "MobileCountryCode": "+236",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "TD",
+            "CountryName": "Chad",
+            "MobileCountryCode": "+235",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CL",
+            "CountryName": "Chile",
+            "MobileCountryCode": "+56",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "cs",
+            "CountryName": "China[People's Republic]",
+            "MobileCountryCode": "+86",
+            "MobileLength": "11"
+        },
+        {
+            "CountryID": "CO",
+            "CountryName": "Colombia",
+            "MobileCountryCode": "+57",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CG",
+            "CountryName": "Congo",
+            "MobileCountryCode": "+242",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CK",
+            "CountryName": "Cook Islands",
+            "MobileCountryCode": "+682",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CR",
+            "CountryName": "Costa Rica",
+            "MobileCountryCode": "+506",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Croatia",
+            "MobileCountryCode": "+385",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Cuba",
+            "MobileCountryCode": "+53",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CY",
+            "CountryName": "Cyprus",
+            "MobileCountryCode": "+357",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CZ",
+            "CountryName": "Czech Republic",
+            "MobileCountryCode": "+420",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CD",
+            "CountryName": "Democratic Republic of the Congo",
+            "MobileCountryCode": "+243",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "DK",
+            "CountryName": "Denmark",
+            "MobileCountryCode": "+45",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "EC",
+            "CountryName": "Ecuador",
+            "MobileCountryCode": "+593",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "EG",
+            "CountryName": "Egypt",
+            "MobileCountryCode": "+20",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SV",
+            "CountryName": "El Salvador",
+            "MobileCountryCode": "+503",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "ER",
+            "CountryName": "Eritrea",
+            "MobileCountryCode": "+291",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "ET",
+            "CountryName": "Ethiopia",
+            "MobileCountryCode": "+251",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "FO",
+            "CountryName": "Faroe Islands",
+            "MobileCountryCode": "+298",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "FJ",
+            "CountryName": "Fiji",
+            "MobileCountryCode": "+679",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "FI",
+            "CountryName": "Finland",
+            "MobileCountryCode": "+358",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Franc",
+            "MobileCountryCode": "+33",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "GA",
+            "CountryName": "Gabon",
+            "MobileCountryCode": "+241",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "GE",
+            "CountryName": "Georgia",
+            "MobileCountryCode": "+995",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "DE",
+            "CountryName": "Germany",
+            "MobileCountryCode": "+49",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "GH",
+            "CountryName": "Ghana",
+            "MobileCountryCode": "+233",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "GI",
+            "CountryName": "Gibraltar",
+            "MobileCountryCode": "+350",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "GR",
+            "CountryName": "Greece",
+            "MobileCountryCode": "+30",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "GL",
+            "CountryName": "Greenland",
+            "MobileCountryCode": "+299",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "GD",
+            "CountryName": "Grenada",
+            "MobileCountryCode": "+1-473",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "GT",
+            "CountryName": "Guatemala",
+            "MobileCountryCode": "+502",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "GN",
+            "CountryName": "Guinea",
+            "MobileCountryCode": "+224",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "GY",
+            "CountryName": "Guyana",
+            "MobileCountryCode": "+592",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "HT",
+            "CountryName": "Haiti",
+            "MobileCountryCode": "+509",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Herzegovina",
+            "MobileCountryCode": "+387",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "HN",
+            "CountryName": "Honduras",
+            "MobileCountryCode": "+504",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Hong Kong",
+            "MobileCountryCode": "+852",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Hungary",
+            "MobileCountryCode": "+36",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "IS",
+            "CountryName": "Iceland",
+            "MobileCountryCode": "+354",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "IN",
+            "CountryName": "India",
+            "MobileCountryCode": "+91",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "ID",
+            "CountryName": "Indonesia",
+            "MobileCountryCode": "+62",
+            "MobileLength": "10"
+        },
+        {
+            "CountryID": "IR",
+            "CountryName": "Iran",
+            "MobileCountryCode": "+98",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "IQ",
+            "CountryName": "Iraq",
+            "MobileCountryCode": "+964",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "IE",
+            "CountryName": "Ireland",
+            "MobileCountryCode": "+353",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "IT",
+            "CountryName": "Italy",
+            "MobileCountryCode": "+36",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CI",
+            "CountryName": "Ivory Coast",
+            "MobileCountryCode": "+225",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Ivory Coast",
+            "MobileCountryCode": "+225",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "JM",
+            "CountryName": "Jamaica",
+            "MobileCountryCode": "+1-876",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "JP",
+            "CountryName": "Japan",
+            "MobileCountryCode": "+81",
+            "MobileLength": "10"
+        },
+        {
+            "CountryID": "JO",
+            "CountryName": "Jordan",
+            "MobileCountryCode": "+962",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "KZ",
+            "CountryName": "Kazakhstan",
+            "MobileCountryCode": "+7",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "KE",
+            "CountryName": "Kenya",
+            "MobileCountryCode": "+254",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "KR",
+            "CountryName": "Korea",
+            "MobileCountryCode": "+82",
+            "MobileLength": "9"
+        },
+        {
+            "CountryID": "KW",
+            "CountryName": "Kuwait",
+            "MobileCountryCode": "+965",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "LA",
+            "CountryName": "Laos",
+            "MobileCountryCode": "+856",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "LV",
+            "CountryName": "Latvia",
+            "MobileCountryCode": "+371",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "LB",
+            "CountryName": "Lebanon",
+            "MobileCountryCode": "+961",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "LS",
+            "CountryName": "Lesotho",
+            "MobileCountryCode": "+266",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Liberia",
+            "MobileCountryCode": "+231",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Libya",
+            "MobileCountryCode": "+218",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "LI",
+            "CountryName": "Liechtenstein",
+            "MobileCountryCode": "+41",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "LU",
+            "CountryName": "Lithuania",
+            "MobileCountryCode": "+370",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Luxembourg",
+            "MobileCountryCode": "+352",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MY",
+            "CountryName": "Malaysia",
+            "MobileCountryCode": "+60",
+            "MobileLength": "9"
+        },
+        {
+            "CountryID": "MV",
+            "CountryName": "Maldives",
+            "MobileCountryCode": "+960",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "ML",
+            "CountryName": "Mali",
+            "MobileCountryCode": "+223",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MU",
+            "CountryName": "Mauritius",
+            "MobileCountryCode": "+230",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MG",
+            "CountryName": "Madagascar",
+            "MobileCountryCode": "+261",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MT",
+            "CountryName": "Malta",
+            "MobileCountryCode": "+356",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MW",
+            "CountryName": "Malawi",
+            "MobileCountryCode": "+265",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MR",
+            "CountryName": "Mauritania",
+            "MobileCountryCode": "+222",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MX",
+            "CountryName": "Mexico",
+            "MobileCountryCode": "+52",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MD",
+            "CountryName": "Moldova",
+            "MobileCountryCode": "+373",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MC",
+            "CountryName": "Monaco",
+            "MobileCountryCode": "+377",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MN",
+            "CountryName": "Mongolia",
+            "MobileCountryCode": "+976",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MA",
+            "CountryName": "Morocco",
+            "MobileCountryCode": "+212",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Mozambique",
+            "MobileCountryCode": "+258",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "MM",
+            "CountryName": "Myanmar",
+            "MobileCountryCode": "+95",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "NA",
+            "CountryName": "Namibia",
+            "MobileCountryCode": "+264",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "NR",
+            "CountryName": "Nauru",
+            "MobileCountryCode": "+674",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "NL",
+            "CountryName": "Netherlands",
+            "MobileCountryCode": "+31",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "NC",
+            "CountryName": "New Caledonia",
+            "MobileCountryCode": "+687",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "NP",
+            "CountryName": "Nepal",
+            "MobileCountryCode": "+977",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "NZ",
+            "CountryName": "New Zealand",
+            "MobileCountryCode": "+64",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "NG",
+            "CountryName": "Nigeria",
+            "MobileCountryCode": "+234",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "NE",
+            "CountryName": "Niger",
+            "MobileCountryCode": "+227",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "North Korea",
+            "MobileCountryCode": "+850",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "NO",
+            "CountryName": "Norway",
+            "MobileCountryCode": "+47",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "OM",
+            "CountryName": "Oman",
+            "MobileCountryCode": "+968",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "PK",
+            "CountryName": "Pakistan",
+            "MobileCountryCode": "+92",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "PA",
+            "CountryName": "Panama",
+            "MobileCountryCode": "+507",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "PW",
+            "CountryName": "Palau",
+            "MobileCountryCode": "+680",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "PY",
+            "CountryName": "Paraguay",
+            "MobileCountryCode": "+595",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "PG",
+            "CountryName": "Papua New Guinea",
+            "MobileCountryCode": "+675",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "PE",
+            "CountryName": "Peru",
+            "MobileCountryCode": "+51",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "PN",
+            "CountryName": "Pitcairn",
+            "MobileCountryCode": "+64",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Philippines",
+            "MobileCountryCode": "+63",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "PL",
+            "CountryName": "Poland",
+            "MobileCountryCode": "+48",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "PT",
+            "CountryName": "Portugal",
+            "MobileCountryCode": "+351",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "QA",
+            "CountryName": "Qatar",
+            "MobileCountryCode": "+974",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "RO",
+            "CountryName": "Romania",
+            "MobileCountryCode": "+40",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "RU",
+            "CountryName": "Russia",
+            "MobileCountryCode": "+70",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "RW",
+            "CountryName": "Rwanda",
+            "MobileCountryCode": "+250",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "KN",
+            "CountryName": "Saint Kitts and Nevis",
+            "MobileCountryCode": "+1-869",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "LC",
+            "CountryName": "Saint Lucia",
+            "MobileCountryCode": "+1-758",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "VC",
+            "CountryName": "Saint Vincent and the Grenadines",
+            "MobileCountryCode": "+1-784",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "ST",
+            "CountryName": "Sao Tome and Principe",
+            "MobileCountryCode": "+239",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SA",
+            "CountryName": "Saudi Arabia",
+            "MobileCountryCode": "+966",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SN",
+            "CountryName": "Senegal",
+            "MobileCountryCode": "+221",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Serbia",
+            "MobileCountryCode": "+381",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SC",
+            "CountryName": "Seychelles",
+            "MobileCountryCode": "+248",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SL",
+            "CountryName": "Sierra Leone",
+            "MobileCountryCode": "+232",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Singapore",
+            "MobileCountryCode": "+65",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SK",
+            "CountryName": "Slovakia",
+            "MobileCountryCode": "+521",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SB",
+            "CountryName": "Solomon Islands",
+            "MobileCountryCode": "+677",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SO",
+            "CountryName": "Somalia",
+            "MobileCountryCode": "+252",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "ZA",
+            "CountryName": "South Africa",
+            "MobileCountryCode": "+27",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "ES",
+            "CountryName": "Spain",
+            "MobileCountryCode": "+34",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "LK",
+            "CountryName": "Sri Lanka",
+            "MobileCountryCode": "+94",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SD",
+            "CountryName": "Sudan",
+            "MobileCountryCode": "+249",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SR",
+            "CountryName": "Suriname",
+            "MobileCountryCode": "+597",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SZ",
+            "CountryName": "Swaziland",
+            "MobileCountryCode": "+268",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SE",
+            "CountryName": "Sweden",
+            "MobileCountryCode": "+46",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "CH",
+            "CountryName": "Switzerland",
+            "MobileCountryCode": "+41",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "SY",
+            "CountryName": "Syria",
+            "MobileCountryCode": "+963",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Taiwan",
+            "MobileCountryCode": "+886",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "TJ",
+            "CountryName": "Tajikistan",
+            "MobileCountryCode": "+992",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "TZ",
+            "CountryName": "Tanzania",
+            "MobileCountryCode": "+255",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "TG",
+            "CountryName": "Togo",
+            "MobileCountryCode": "+228",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "TH",
+            "CountryName": "Thailand",
+            "MobileCountryCode": "+66",
+            "MobileLength": "8"
+        },
+        {
+            "CountryID": "TT",
+            "CountryName": "Trinidad and Tobago",
+            "MobileCountryCode": "+1-868",
+            "MobileLength": "8"
+        },
+        {
+            "CountryID": "TN",
+            "CountryName": "Tunisia",
+            "MobileCountryCode": "+216",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "TR",
+            "CountryName": "Turkey",
+            "MobileCountryCode": "+90",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "UG",
+            "CountryName": "Uganda",
+            "MobileCountryCode": "+256",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "UA",
+            "CountryName": "Ukraine",
+            "MobileCountryCode": "+380",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "AE",
+            "CountryName": "United Arab Emirates",
+            "MobileCountryCode": "+971",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "UK",
+            "CountryName": "United Kingdom",
+            "MobileCountryCode": "+44",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "UY",
+            "CountryName": "Uruguay",
+            "MobileCountryCode": "+598",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "USA",
+            "CountryName": "USA",
+            "MobileCountryCode": "+1",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "UZ",
+            "CountryName": "Uzbekistan",
+            "MobileCountryCode": "+7",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "VU",
+            "CountryName": "Vanuatu",
+            "MobileCountryCode": "+678",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Vatican City St.",
+            "MobileCountryCode": "+39",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "VE",
+            "CountryName": "Venezuela",
+            "MobileCountryCode": "+58",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "VN",
+            "CountryName": "Vietnam",
+            "MobileCountryCode": "+84",
+            "MobileLength": "9",
+            "MobileMaxLength": "10",
+            "MobileCheckFormat": "^[19]"
+        },
+        {
+            "CountryID": "WF",
+            "CountryName": "Wallis and Futuna",
+            "MobileCountryCode": "+681",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "WS",
+            "CountryName": "Samoa",
+            "MobileCountryCode": "+685",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "YE",
+            "CountryName": "Yemen",
+            "MobileCountryCode": "+967",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Yugoslavia",
+            "MobileCountryCode": "+38",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "",
+            "CountryName": "Zaire",
+            "MobileCountryCode": "+243",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "ZM",
+            "CountryName": "Zambia",
+            "MobileCountryCode": "+260",
+            "MobileLength": "0"
+        },
+        {
+            "CountryID": "ZW",
+            "CountryName": "Zimbabwe",
+            "MobileCountryCode": "+263",
+            "MobileLength": "0"
+        }
+    ]
+}
